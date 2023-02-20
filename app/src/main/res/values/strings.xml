@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Namecard</string>
+    <string name="title">Scan QR</string>
+    <string name="name">Lan Ke EN</string>
+    <string name="qr">RickRoll</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+</resources>
